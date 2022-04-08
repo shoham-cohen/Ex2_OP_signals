@@ -1,5 +1,5 @@
 # Ex2_OP_signals
-## shoham cohen 325107290
+## By Shoham Cohen 325107290
 
 ### The handeled signals are:
 * SIGCHLD
