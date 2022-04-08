@@ -2,8 +2,8 @@
 ## shoham cohen 325107290
 
 ### The handeled signals are:
-  SIGCHLD
-  SIGILL
+  *SIGCHLD
+  *SIGILL
   SIGALRM
   SIGFPE
   SIGSEGV
