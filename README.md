@@ -15,6 +15,6 @@
 ### 9 signals total
 
 ## how to run:
-* open the terminal to the correct directory
+* open the terminal in the correct directory
 * type make all
 * type ./signals
