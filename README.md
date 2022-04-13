@@ -1,4 +1,4 @@
-# Ex2_OP_signals
+# Ex2_OS_signals
 ## By Shoham Cohen 325107290
 
 ### The handeled signals are:
